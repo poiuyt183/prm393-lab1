@@ -25,7 +25,7 @@ The `flutter doctor` command was executed to verify that the Flutter SDK and all
 
 The Flutter and Dart plugins were successfully installed and enabled in Android Studio to support Flutter development.
 
-<img src="/Exercise1(2).png" alt="Flutter & Dart Plugins" width="800"/>
+<img src="/Exercise1(2).png" alt="Flutter & Dart Plugins" width="500"/>
 
 ---
 
@@ -35,13 +35,13 @@ The Flutter and Dart plugins were successfully installed and enabled in Android 
 
 The default Flutter project structure was explored to understand the role of each folder and file.
 
-<img src="/ProjectStructure.png" alt="Project Structure" width="700"/>
+<img src="/ProjectStructure.png" alt="Project Structure" width="500"/>
 
 ### Running Counter App
 
 The default Flutter Counter App was successfully built and executed on an emulator/device.
 
-<img src="/RunningCounterApp.png" alt="Running Counter App" width="400"/>
+<img src="/RunningCounterApp.png" alt="Running Counter App" width="300"/>
 
 ### Hot Reload Demonstration
 
