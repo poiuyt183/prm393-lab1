@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [PRM393 – Flutter Lab 1](#prm393--flutter-lab-1)
   - [Exercise 1: Environment Setup](#exercise-1-environment-setup)
     - [Flutter Doctor](#flutter-doctor)
     - [Android Studio Flutter/Dart Plugins](#android-studio-flutterdart-plugins)
@@ -12,11 +11,6 @@
     - [Hot Reload Demonstration](#hot-reload-demonstration)
   - [Exercise 3: Flutter Source Code](#exercise-3-flutter-source-code)
   - [Exercise 4: Conceptual Questions](#exercise-4-conceptual-questions)
-    - [1. What is the purpose of the flutter doctor command?](#1-what-is-the-purpose-of-the-flutter-doctor-command)
-    - [2. What file acts as the entry point of a Flutter application?](#2-what-file-acts-as-the-entry-point-of-a-flutter-application)
-    - [3. Explain the difference between Hot Reload and Hot Restart.](#3-explain-the-difference-between-hot-reload-and-hot-restart)
-    - [4. How does runapp build the widget tree?](#4-how-does-runapp-build-the-widget-tree)
-    - [5. Describe how Flutter’s architecture enables cross-platform development.](#5-describe-how-flutters-architecture-enables-cross-platform-development)
 
 
 ## Exercise 1: Environment Setup
