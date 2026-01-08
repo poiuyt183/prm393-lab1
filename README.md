@@ -1,4 +1,4 @@
-# PRM393 – Lab 1
+# PRM393 – Lab 1 - Trần Văn Khuyến (HE187268)
 
 ## Table of Contents
 
